@@ -11,39 +11,29 @@ const EducationSection: React.FC = () => {
       institution: 'GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY',
       location: 'New Delhi',
       duration: '2021-25',
-      cgpa: '8.9',
+      cgpa: '7.8',
       description: 'Bachelor of Technology in Computer Science and Engineering with specialization in Industrial Internet of Things.',
       skills: ['CSE', 'IoT', 'Industrial IoT', 'Computer Science']
     },
     {
       id: 2,
-      title: 'Bachelor of Science in Data Science and Applications',
-      institution: 'INDIAN INSTITUTE OF TECHNOLOGY, MADRAS',
-      location: 'Online Degree',
-      duration: '2022-26',
-      cgpa: '7.0',
-      description: 'Online Bachelor of Science degree in Data Science and Applications.',
-      skills: ['Data Science', 'Applications', 'Online Learning', 'Analytics']
-    },
-    {
-      id: 3,
       title: 'Class 12th',
-      institution: 'Queens Valley School',
+      institution: 'Arwachin Bharti Bhawan Sr. Secondary School',
       location: 'New Delhi',
       duration: 'CBSE Board',
-      cgpa: '76%',
-      description: 'Class 12th from Queens Valley School under CBSE Board.',
+      cgpa: '87%',
+      description: 'Class 12th from Arwachin Bharti Bhawan Sr. Secondary School under CBSE Board.',
       skills: ['CBSE', 'Class 12th', 'High School']
     },
     {
-      id: 4,
+      id: 3,
       title: 'Class 10th',
-      institution: 'Queens Valley School',
-      location: 'New Delhi',
-      duration: 'CBSE Board',
-      cgpa: '91%',
-      description: 'Class 10th from Queens Valley School under CBSE Board.',
-      skills: ['CBSE', 'Class 10th', 'High School']
+      institution: 'Modern Academy Sr. Secondary School',
+      location: 'Ghaziabad',
+      duration: 'ICSE Board',
+      cgpa: '84%',
+      description: 'Class 10th from Modern Academy Sr. Secondary School under ICSE Board.',
+      skills: ['ICSE', 'Class 10th', 'High School']
     }
   ];
 
