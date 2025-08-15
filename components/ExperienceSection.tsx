@@ -6,32 +6,32 @@ const ExperienceSection: React.FC = () => {
     {
       id: 1,
       position: 'left',
-      title: 'AI Innovator',
-      company: 'Openfabric AI',
-      duration: 'May - Jun 2025',
-      location: 'Remote trainee, Sibiu, Romania',
-      description: 'Created AI applications, one such project was a huggingface app that could run any AI model from huggingface and I was able to get 70% of the models to run thorough an automated pipeline created by me within the openfabric ecosystem.',
-      skills: ['AI Applications', 'HuggingFace', 'Automated Pipeline', 'Openfabric Ecosystem']
+      title: 'Quant and Gen AI lead',
+      company: 'EVU',
+      duration: '',
+      location: '',
+      description: 'Led GenAI efforts to build Twin Brain, an AI trading assistant that mirrors user behavior and supports real-time stock/options decisions. Developed a trainable agent, integrated broker APIs, and delivered secure portfolio tools',
+      skills: ['GenAI', 'Trading Assistant', 'Broker APIs', 'Portfolio Tools']
     },
     {
       id: 2,
       position: 'right',
-      title: 'Artificial Intelligence Intern',
-      company: 'Hello Recruiter',
-      duration: 'Jul - Dec 2024',
-      location: 'Remote Intern, Florida, USA',
-      description: 'Worked in a U.S.-based startup remotely and created an AI application for recruiters and applicants using AI that streamlines the recruiting process and helps in candidate interview preparation.',
-      skills: ['AI Development', 'Recruitment Tech', 'Startup Experience', 'Remote Work']
+      title: 'Full Stack Development Intern',
+      company: 'Arpanet',
+      duration: '',
+      location: '',
+      description: 'Worked on the project for Red Tape, handled the CRM part and testing part, and developed the logic for the backend task along with the team. • Handling all over India outlet and controlling the flow from ASM/RSM to QC to IT',
+      skills: ['Full Stack Development', 'CRM', 'Backend Logic', 'Testing']
     },
     {
       id: 3,
       position: 'left',
-      title: 'Blockchain Development Intern',
+      title: 'AIML Development Intern',
       company: 'GSSIPU',
-      duration: 'Sep - Oct 2023',
-      location: 'Intern, New Delhi',
-      description: 'Worked under my college professor as a blockchain intern and developed a Decentralized application along with understanding deep concepts of Blockchain, huge focus on was on developing multi-user blockchain dapp.',
-      skills: ['Blockchain', 'DApp Development', 'Multi-user Systems', 'Smart Contracts']
+      duration: '',
+      location: '',
+      description: 'Worked under my college professor as a AIML intern and developed a Real time analysis of stocks based on opening and closing price of it.',
+      skills: ['AIML', 'Real-time Analysis', 'Stock Analysis', 'Data Processing']
     },
     {
       id: 4,
