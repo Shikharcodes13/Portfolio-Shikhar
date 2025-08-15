@@ -36,12 +36,12 @@ const ExperienceSection: React.FC = () => {
     {
       id: 4,
       position: 'right',
-      title: 'International Project Contributor',
-      company: 'Omdena',
-      duration: 'Aug - Sept 2023',
-      location: 'Remote project contributor (UAE Chapter)',
-      description: 'Contributed to the Abu Dhabi Open Data Intelligence project, collaborating with the Omdena community to develop a voice/text engine for advanced data analytics using Falcon LLM, prioritizing ethical AI practices.',
-      skills: ['Falcon LLM', 'Data Analytics', 'Voice/Text Engine', 'Ethical AI']
+      title: 'AIML Extern',
+      company: 'Sopra Steria',
+      duration: '',
+      location: '',
+      description: 'Developed and optimized different Machine learning models and will be working on dummy projects. Worked as a team and managed the data handling process such as EDA, data cleaning',
+      skills: ['Machine Learning', 'Model Optimization', 'EDA', 'Data Cleaning']
     }
   ];
 
