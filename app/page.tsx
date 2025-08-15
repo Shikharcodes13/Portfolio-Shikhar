@@ -139,16 +139,8 @@ export default function Home() {
             <h2 className="section-title-mac">Recent Highlights</h2>
             <div className="highlights-container">
               <div className="highlights-marquee">
-                <div className="highlight-item">
-                  <div className="highlight-icon">🏆</div>
-                  <h3>AWS AIML Scholar</h3>
-                  <p>Selected for prestigious AI/ML program</p>
-                </div>
-                <div className="highlight-item">
-                  <div className="highlight-icon">📚</div>
-                  <h3>Springer Publication</h3>
-                  <p>Research published in IC4S conference</p>
-                </div>
+                
+                
                 <div className="highlight-item">
                   <div className="highlight-icon">🌍</div>
                   <h3>2 Continents</h3>

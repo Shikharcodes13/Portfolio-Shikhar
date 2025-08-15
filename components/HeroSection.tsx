@@ -18,7 +18,7 @@ const HeroSection: React.FC = () => {
   ];
 
   const achievements = [
-    "AWS AIML SCHOLAR",
+    
     "PUBLISHED RESEARCHER IN SPRINGER LNNS (IC4S)",
     "2 INTERNSHIPS in 2 CONTINENTS",
     "HACKATHON WINNER - APPIAN AI CHALLENGE"
